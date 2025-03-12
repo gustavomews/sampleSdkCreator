@@ -1,0 +1,11 @@
+com.verifone.aidl-constraintlayout-1.1.3-0 C:\Users\Teste\.gradle\caches\transforms-3\0466b2adffa77ae922b995338e9533a4\transformed\constraintlayout-1.1.3\res
+com.verifone.aidl-appcompat-1.1.0-1 C:\Users\Teste\.gradle\caches\transforms-3\510cbe3484f7333a21961a7098937876\transformed\appcompat-1.1.0\res
+com.verifone.aidl-appcompat-resources-1.1.0-2 C:\Users\Teste\.gradle\caches\transforms-3\c0c50d7b7e5064266b5a032c320f7ab7\transformed\appcompat-resources-1.1.0\res
+com.verifone.aidl-core-1.1.0-3 C:\Users\Teste\.gradle\caches\transforms-3\d2809249a1ec4101ce00b233a325ed98\transformed\core-1.1.0\res
+com.verifone.aidl-pngs-4 C:\Users\Teste\Downloads\x990_aidl_aar_project\build\generated\res\pngs\release
+com.verifone.aidl-resValues-5 C:\Users\Teste\Downloads\x990_aidl_aar_project\build\generated\res\resValues\release
+com.verifone.aidl-mergeReleaseResources-6 C:\Users\Teste\Downloads\x990_aidl_aar_project\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.verifone.aidl-mergeReleaseResources-7 C:\Users\Teste\Downloads\x990_aidl_aar_project\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.verifone.aidl-merged_res-8 C:\Users\Teste\Downloads\x990_aidl_aar_project\build\intermediates\merged_res\release
+com.verifone.aidl-main-9 C:\Users\Teste\Downloads\x990_aidl_aar_project\src\main\res
+com.verifone.aidl-release-10 C:\Users\Teste\Downloads\x990_aidl_aar_project\src\release\res
